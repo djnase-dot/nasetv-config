@@ -1,0 +1,14 @@
+{
+  "maintenance": false,
+  "minimumVersion": 1,
+  "endpoints": [
+    {
+      "name": "primary",
+      "url": "http://cdn-ky.com"
+    },
+    {
+      "name": "backup",
+      "url": "http://172.110.220.61"
+    }
+  ]
+}
